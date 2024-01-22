@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @diegobbn
-- 👀 I’m interested in Formula 1 and Pop culture
-- 🌱 I’m currently learning Api rest
-- 💞️ I’m looking to collaborate on haas f1 team website
-- 📫 How to reach me: @diego.bbn on instagram
+- 👀 I’m interested in Photography and Music
+- 🌱 I’m currently learning how to control light correctly in studio
+- 💞️ I’m looking to collaborate with Trippie Redd
+- 📫 How to reach me: @Ushinaya on instagram
 
 <!---
 diegobbn/diegobbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
